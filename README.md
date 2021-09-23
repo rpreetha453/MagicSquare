@@ -8,8 +8,6 @@
 | --- | --- | --- |
 |     |     |     |
 | --- | --- | --- |
-|     |     |     |
-| --- | --- | --- |
 
 * Display Board corner filled with the even numbers
 * Get Player Input
