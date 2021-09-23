@@ -5,10 +5,10 @@
 
 
 
-|  |   |  |
-| - | - | - |
-| - | 5 | - |
-|  | - |  |
+|   |   |   |
+|   |   |   |
+|   | 5 |   |
+|   |   |   |
 * Display Board corner filled with the even numbers
 * Get Player Input
 * Display Win
